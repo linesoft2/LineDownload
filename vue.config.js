@@ -6,6 +6,6 @@ module.exports = {
         // 输出文件名会被推导为 `subpage.html`。
         index: 'src/index/main.js',
         newTask: 'src/newTask/main.js',
-        newTask: 'src/newTask/about.js',
+        about: 'src/about/main.js',
       }
 }

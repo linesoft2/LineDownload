@@ -1035,6 +1035,67 @@
   resolved "https://registry.npmmirror.com/@soda/get-current-script/-/get-current-script-1.0.2.tgz#a53515db25d8038374381b73af20bb4f2e508d87"
   integrity sha512-T7VNNlYVM1SgQ+VsMYhnDkcGmWhQdL0bDyGm5TlQ3GBXnJscEClUUOKduWTmm2zCnvNLC1hc3JpuXjs/nFOc5w==
 
+"@tauri-apps/api@^1.0.0-rc.2":
+  version "1.0.0-rc.2"
+  resolved "https://registry.npmmirror.com/@tauri-apps/api/-/api-1.0.0-rc.2.tgz#bac494a6b8868e05f86184d2ee1ccc8477470363"
+  integrity sha512-JhUDCJpfxmf/S1R+yHmJGsher4CGi07Qv4fYeucB7naeFZ7yTQe7S1CHKUZaRYpurGSdwOF3my9k0LyGmpAGYw==
+  dependencies:
+    type-fest "2.12.0"
+
+"@tauri-apps/cli-darwin-arm64@1.0.0-rc.4":
+  version "1.0.0-rc.4"
+  resolved "https://registry.npmmirror.com/@tauri-apps/cli-darwin-arm64/-/cli-darwin-arm64-1.0.0-rc.4.tgz#4c1637b3ab8d3b7df2c687747332541ad66dad39"
+  integrity sha512-TWAQbfABk1qsIAWiEmphKk1D+Qa4fBQE9vk5we5abRsqDCQJKu4c7sVwMYPzsa3fnTQk5mgEiSplevSvbbR3DA==
+
+"@tauri-apps/cli-darwin-x64@1.0.0-rc.4":
+  version "1.0.0-rc.4"
+  resolved "https://registry.npmmirror.com/@tauri-apps/cli-darwin-x64/-/cli-darwin-x64-1.0.0-rc.4.tgz#7926eb1e5401a746dee120b6c15e1a918aa2d501"
+  integrity sha512-7LAMgtZcUxfsCPJynmS9a3mzsT8AFMu5LGIUgPLppiGsaqb5CZUw5WpJQLW16VBPIQ9qR4zxlsCQb7P2WsbXzA==
+
+"@tauri-apps/cli-linux-arm-gnueabihf@1.0.0-rc.4":
+  version "1.0.0-rc.4"
+  resolved "https://registry.npmmirror.com/@tauri-apps/cli-linux-arm-gnueabihf/-/cli-linux-arm-gnueabihf-1.0.0-rc.4.tgz#b8a742402f992449c0a4e8d56d071c6eaaa307e9"
+  integrity sha512-Ut3aOMI1dMoPNsvNfJgweqqM5G4G2HBWSdSy5C0hD1GC3Y1xSv1BWORNT/eYNeJF5sCTO+qkslsOVw30xoJ6Fg==
+
+"@tauri-apps/cli-linux-arm64-gnu@1.0.0-rc.4":
+  version "1.0.0-rc.4"
+  resolved "https://registry.npmmirror.com/@tauri-apps/cli-linux-arm64-gnu/-/cli-linux-arm64-gnu-1.0.0-rc.4.tgz#86171dc18b6c54b7cb62a2675558ccf0d19f4f13"
+  integrity sha512-8JEsLGKfu2ffYSMWzMcRHZpzQrMKPmY1HiXi1W8xDOKbwTSaZ4qlP67JAE6UtdvrDJDg/rGGTEs33ZZ0VuCJ9Q==
+
+"@tauri-apps/cli-linux-arm64-musl@1.0.0-rc.4":
+  version "1.0.0-rc.4"
+  resolved "https://registry.npmmirror.com/@tauri-apps/cli-linux-arm64-musl/-/cli-linux-arm64-musl-1.0.0-rc.4.tgz#3c954a5fe2e0655711498148ce99340a294292e9"
+  integrity sha512-UGWY19vCsNpDPQfsfCpeeVVF4mwkbEVUCUdz/PoAtcW07nxa0xI/fNgX6U/LKXepon5z6iUsS5P4AtcLjPw5rw==
+
+"@tauri-apps/cli-linux-x64-gnu@1.0.0-rc.4":
+  version "1.0.0-rc.4"
+  resolved "https://registry.npmmirror.com/@tauri-apps/cli-linux-x64-gnu/-/cli-linux-x64-gnu-1.0.0-rc.4.tgz#7f8b677cceb4ada296585ad6860d17061b4c4009"
+  integrity sha512-lYs6xMw4Y8FpmRThzsWiXQ7SbR2lyBilC+m9VDQAp1vd1eriF80XtFbfhxKy9Wpm5qzYtcWYoIKWiRDa8LX8DA==
+
+"@tauri-apps/cli-linux-x64-musl@1.0.0-rc.4":
+  version "1.0.0-rc.4"
+  resolved "https://registry.npmmirror.com/@tauri-apps/cli-linux-x64-musl/-/cli-linux-x64-musl-1.0.0-rc.4.tgz#777029bf8970798871fdb8ea2b4a1646ecae7c75"
+  integrity sha512-DL4KT4dj2k+y1C3NTY5Fr85/WeYYlpcZZsLzF451wevFunNfGw5kic3tSaaJPtkjgK21t1Bw/hd3XtP6QtFuiA==
+
+"@tauri-apps/cli-win32-x64-msvc@1.0.0-rc.4":
+  version "1.0.0-rc.4"
+  resolved "https://registry.npmmirror.com/@tauri-apps/cli-win32-x64-msvc/-/cli-win32-x64-msvc-1.0.0-rc.4.tgz#9dd49c422a53b00db23b96f13a0218ce8778b00f"
+  integrity sha512-GFhupERiJX48k5hiepNfOm2FCcRTmNQ8m+XfW4slJ61v71wth06kFnFXrbLxTBd8wy77AD7yEGTahjGvR+9CAQ==
+
+"@tauri-apps/cli@1.0.0-rc.4":
+  version "1.0.0-rc.4"
+  resolved "https://registry.npmmirror.com/@tauri-apps/cli/-/cli-1.0.0-rc.4.tgz#63ac6f8e45739c70cc2f60ac60a632f288570040"
+  integrity sha512-VL7/28yzLiMevw4JGsDcEQYCsasNgALUcPKDma6rBv7sPypf4V3fksDCc90xs6usNQeoSfKaiExQWy24shoPDg==
+  optionalDependencies:
+    "@tauri-apps/cli-darwin-arm64" "1.0.0-rc.4"
+    "@tauri-apps/cli-darwin-x64" "1.0.0-rc.4"
+    "@tauri-apps/cli-linux-arm-gnueabihf" "1.0.0-rc.4"
+    "@tauri-apps/cli-linux-arm64-gnu" "1.0.0-rc.4"
+    "@tauri-apps/cli-linux-arm64-musl" "1.0.0-rc.4"
+    "@tauri-apps/cli-linux-x64-gnu" "1.0.0-rc.4"
+    "@tauri-apps/cli-linux-x64-musl" "1.0.0-rc.4"
+    "@tauri-apps/cli-win32-x64-msvc" "1.0.0-rc.4"
+
 "@types/body-parser@*":
   version "1.19.2"
   resolved "https://registry.npmmirror.com/@types/body-parser/-/body-parser-1.19.2.tgz#aea2059e28b7658639081347ac4fab3de166e6f0"
@@ -1409,7 +1470,7 @@
   optionalDependencies:
     vue-loader-v16 "npm:vue-loader@^16.1.0"
 
-"@vue/cli-shared-utils@^4.5.17":
+"@vue/cli-shared-utils@^4.1.1", "@vue/cli-shared-utils@^4.5.17":
   version "4.5.17"
   resolved "https://registry.npmmirror.com/@vue/cli-shared-utils/-/cli-shared-utils-4.5.17.tgz#bb4aac8b816036cf5c0adf3af3cc1cb9c425501e"
   integrity sha512-VoFNdxvTW4vZu3ne+j1Mf7mU99J2SAoRVn9XPrsouTUUJablglM8DASk7Ixhsh6ymyL/W9EADQFR6Pgj8Ujjuw==
@@ -7398,6 +7459,11 @@ tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   resolved "https://registry.npmmirror.com/tweetnacl/-/tweetnacl-0.14.5.tgz#5ae68177f192d4456269d108afa93ff8743f4f64"
   integrity sha512-KXXFFdAbFXY4geFIwoyNK+f5Z1b7swfXABfL7HXCmoIWMKU3dmS26672A4EeQtDzLKy7SXmfBu51JolvEKwtGA==
 
+type-fest@2.12.0:
+  version "2.12.0"
+  resolved "https://registry.npmmirror.com/type-fest/-/type-fest-2.12.0.tgz#ce342f58cab9114912f54b493d60ab39c3fc82b6"
+  integrity sha512-Qe5GRT+n/4GoqCNGGVp5Snapg1Omq3V7irBJB3EaKsp7HWDo5Gv2d/67gfNyV+d5EXD+x/RF5l1h4yJ7qNkcGA==
+
 type-fest@^0.6.0:
   version "0.6.0"
   resolved "https://registry.npmmirror.com/type-fest/-/type-fest-0.6.0.tgz#8d2a2370d3df886eb5c90ada1c5bf6188acf838b"
@@ -7654,6 +7720,14 @@ vm-browserify@^1.0.1:
   version "1.1.2"
   resolved "https://registry.npmmirror.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
+
+vue-cli-plugin-tauri@~1.0.0-rc.1:
+  version "1.0.0-rc.1"
+  resolved "https://registry.npmmirror.com/vue-cli-plugin-tauri/-/vue-cli-plugin-tauri-1.0.0-rc.1.tgz#31eed8c3a8ac40879a259f07810f83d452eca04d"
+  integrity sha512-mt7RqC4GfIILYanfPG1+0ddPXp0aLTyVYEuF7zKtTpXd+uaRHJbs9o7s4x1uxOOotTHU8CJnAFO4+HUlay1K3g==
+  dependencies:
+    "@tauri-apps/cli" "1.0.0-rc.4"
+    "@vue/cli-shared-utils" "^4.1.1"
 
 vue-hot-reload-api@^2.3.0:
   version "2.3.4"

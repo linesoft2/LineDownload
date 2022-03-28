@@ -3,7 +3,6 @@
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
 import { Command } from "@tauri-apps/api/shell";
 const aria2c = Command.sidecar("aria2c", []);
 aria2c.execute().then((e) => {
@@ -17,7 +16,6 @@ window.oncontextmenu = (e) => {
 export default {
   name: "App",
   components: {
-    HelloWorld,
   },
 };
 </script>

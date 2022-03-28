@@ -22,7 +22,7 @@
         "icons/icon.ico"
       ],
       "resources": [],
-      "externalBin": ["aria2c"],
+      "externalBin": ["aria2c/aria2c"],
       "copyright": "",
       "category": "DeveloperTool",
       "shortDescription": "",

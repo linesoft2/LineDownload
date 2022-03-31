@@ -1000,6 +1000,11 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@mdi/font@^6.6.96":
+  version "6.6.96"
+  resolved "https://registry.npmmirror.com/@mdi/font/-/font-6.6.96.tgz#4eee6faee5f44d3ec401d354fb95775cd6699575"
+  integrity sha512-FbcvG9z17hwZ7IwX5XeOR1UYGoLq+gTKq6XNPvJFuCpn599GdiPCJbAmmDBJb+jMYXjKYr0lCxfouWGxDA82sA==
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.npmmirror.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -2195,6 +2200,13 @@ browserslist@^4.0.0, browserslist@^4.12.0, browserslist@^4.17.5, browserslist@^4
     node-releases "^2.0.2"
     picocolors "^1.0.0"
 
+buefy@^0.9.19:
+  version "0.9.19"
+  resolved "https://registry.npmmirror.com/buefy/-/buefy-0.9.19.tgz#98fab4b20d62e992dbe7f720fbfc01dfa1bf86a6"
+  integrity sha512-5AonCrtZvTfoWJwqmoTl8JbHjjn/U+q0LrSScgUWRZBaquzb8xgzWoownG4dzNHq5veQdOOxA0aUVyK+x7X07g==
+  dependencies:
+    bulma "0.9.3"
+
 buffer-from@^1.0.0:
   version "1.1.2"
   resolved "https://registry.npmmirror.com/buffer-from/-/buffer-from-1.1.2.tgz#2b146a6fd72e80b4f55d255f35ed59a3a9a41bd5"
@@ -2228,6 +2240,11 @@ builtin-status-codes@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npmmirror.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
   integrity sha512-HpGFw18DgFWlncDfjTa2rcQ4W88O1mC8e8yZ2AvQY5KDaktSTwo+KRf6nHK6FRI5FyRyb/5T6+TSxfP7QyGsmQ==
+
+bulma@0.9.3:
+  version "0.9.3"
+  resolved "https://registry.npmmirror.com/bulma/-/bulma-0.9.3.tgz#ddccb7436ebe3e21bf47afe01d3c43a296b70243"
+  integrity sha512-0d7GNW1PY4ud8TWxdNcP6Cc8Bu7MxcntD/RRLGWuiw/s0a9P+XlH/6QoOIrmbj6o8WWJzJYhytiu9nFjTszk1g==
 
 bytes@3.0.0:
   version "3.0.0"

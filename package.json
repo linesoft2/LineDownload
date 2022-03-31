@@ -9,7 +9,9 @@
     "tauri:serve": "vue-cli-service tauri:serve"
   },
   "dependencies": {
+    "@mdi/font": "^6.6.96",
     "@tauri-apps/api": "^1.0.0-rc.2",
+    "buefy": "^0.9.19",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },

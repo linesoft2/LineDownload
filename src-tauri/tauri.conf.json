@@ -53,9 +53,10 @@
       "all": true,
       "shell":{
         "scope":[{
-          "name":"aria2c",
+          "name":"aria2c/aria2c",
           "cmd":"aria2c",
-          "sidecar":true
+          "sidecar":true,
+          "args":true
         }]
       }
     },

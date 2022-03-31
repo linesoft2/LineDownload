@@ -1,19 +1,5 @@
-# my-tauri-app
+# LineSownload
 
-## Project setup
-```
-yarn install
-```
+简洁、小巧、跨平台、高速的全能下载器
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+即将推出 敬请期待

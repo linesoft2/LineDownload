@@ -48,7 +48,10 @@ aria2c.execute().then(async (e) => {
     await dialog.message("aria2异常关闭，代码：" + e.code);
     process.exit(0);
   }
-});
+}).catch(async (e)=>{
+  await dialog.message("aria2启动失败，原因：" + JSON.stringify(e));
+    process.exit(0);
+})
 window.oncontextmenu = (e) => {
   e.preventDefault();
 };

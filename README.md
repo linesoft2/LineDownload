@@ -1,4 +1,4 @@
-# LineSownload
+# LineDownload
 
 简洁、小巧、跨平台、高速的全能下载器
 
